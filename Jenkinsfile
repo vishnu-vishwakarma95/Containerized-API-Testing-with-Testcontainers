@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/your-username/Containerized-API-Testing-with-Testcontainers.git'
+                git 'https://github.com/vishnu-vishwakarma95/Containerized-API-Testing-with-Testcontainers.git'
             }
         }
         stage('Build') {
