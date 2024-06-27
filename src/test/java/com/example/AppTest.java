@@ -34,5 +34,6 @@ public class AppTest {
 
         System.out.println(response.asString());
         /*test comment */
+        /*test comment 2*/
     }
 }
